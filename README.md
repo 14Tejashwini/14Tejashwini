@@ -1,6 +1,30 @@
-# About Me
-I'm Tejashwini Ravi, a passionate undergraduate student in Computer Science and Engineering, specializing in Artificial Intelligence and Machine Learning at Ramaiah Institute of Technology, Bengaluru. Beyond the realm of coding, I thrive on exploring diverse avenues—from crafting captivating web experiences to delving into the intricacies of problem-solving and algorithm design.
+# Hi there, I'm Tejashwini Ravi! 👋
 
-# Skills
-## Technical Skills:
-C, HTML, CSS, JavaScript, SQL, C++, Python, R, Java
+📍 Bengaluru, India • 📞 9945064789 • ✉️ teju1452003@gmail.com
+
+## 🌟 About Me
+
+- 🎓 Currently pursuing Bachelor of Engineering in Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning
+- 💻 Adept in programming languages, algorithms, and problem-solving.
+- 🌱 I’m currently learning Generative AI
+- 📫 How to reach me: teju1452003@gmail.com
+
+## 💻 Skills
+👩‍💻 C | 🌐 HTML | 🎨 CSS | 💻 JavaScript | 🗃️ SQL | 🚀 C++ | 🐍 Python | 📊 R | ☕ Java
+
+## 📚 Relevant Coursework
+
+- Database Management Systems
+- Data Structures
+- Computer Organization & Architecture
+- OOPs
+- Data Communication & Networking
+- Algorithms
+- Artificial Intelligence
+- Operating Systems
+- Machine Learning
+- Big Data Analytics
+
+## Connect through LinkedIn
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejashwini%20Ravi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tejashwini-ravi-b4795225b/)
+
