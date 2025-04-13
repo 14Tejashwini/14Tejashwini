@@ -10,7 +10,7 @@
 - 📫 How to reach me: teju1452003@gmail.com
 
 ## 💻 Skills
-👩‍💻 C | 🌐 HTML | 🎨 CSS | 💻 JavaScript | 🗃️ SQL | 🚀 C++ | 🐍 Python | 📊 R | ☕ Java
+👩‍💻 C | 🌐 HTML | 🎨 CSS | 💻 JavaScript | 🗃️ SQL  | 🐍 Python | 📊 R | ☕ Java | React.js
 
 ## 📚 Relevant Coursework
 
@@ -24,6 +24,8 @@
 - Operating Systems
 - Machine Learning
 - Big Data Analytics
+- Deep learning
+- Cloud Computing
 
 ## Connect through LinkedIn
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tejashwini%20Ravi-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/tejashwini-ravi-b4795225b/)
